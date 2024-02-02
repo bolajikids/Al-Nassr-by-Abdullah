@@ -21,7 +21,7 @@ import Video3 from "./components/video3";
 import Video4 from "./components/video4";
 import Video5 from "./components/video5";
 import Video6 from "./components/video6";
-function Al_Nassr({}) {
+function Al_Nassr() {
   return (
     <>
       <AlNassr1 />
