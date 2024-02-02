@@ -5,10 +5,14 @@ export default function AlNassr1() {
       <title>AL-Nassr</title>
 
       <h1>All about AL-Nassr</h1>
-      <h2>Al Nassr FC</h2>
+      <h2 id="Al Nassr FC">Al Nassr FC</h2>
       <p>
         <strong>
-          <a target="_blank" href="https://en.wikipedia.org/wiki/Al_Nassr_FC">
+          <a
+            target="_blank"
+            href="https://en.wikipedia.org/wiki/Al_Nassr_FC"
+            rel="noreferrer"
+          >
             AL-Nassr
           </a>
         </strong>{" "}
