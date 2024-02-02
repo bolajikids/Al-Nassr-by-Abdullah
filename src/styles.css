@@ -1,0 +1,126 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+td:hover {
+  background: blue;
+}
+table.row-clickable tbody tr td {
+  padding: 0;
+}
+img {
+  object-fit: contain;
+  image-rendering: -webkit-optimize-contrast;
+}
+hr {
+  border-top: 1px solid blue;
+}
+h1 {
+  background-color: blue;
+  text-decoration: underline;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+}
+div {
+  background-color: lightblue;
+}
+p {
+  background-color: yellow;
+  font-family: cursive;
+  font: 17px cursive;
+}
+
+.image-of-player {
+  height: 36px;
+  width: 28px;
+  min-height: 36px;
+  min-width: 28px;
+  max-height: 36px;
+  max-width: 28px;
+}
+.image {
+  border: 1px solid #585859;
+  min-height: 9px;
+  min-width: 14px;
+}
+table {
+  align-self: center;
+}
+body {
+  background-color: lightblue;
+}
+.inline-table {
+  margin: 0;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border: 0;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: initial;
+  border-right-style: initial;
+  border-bottom-style: initial;
+  border-left-style: initial;
+  border-top-color: initial;
+  border-right-color: initial;
+  border-bottom-color: initial;
+  border-left-color: initial;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  width: auto;
+  border-collapse: collapse;
+  box-shadow: none;
+}
+table .rn_nummer {
+  width: 21px;
+  height: 21px;
+  border-radius: 12px;
+  padding-top: 2px;
+  color: #fff;
+  font-weight: 700;
+  background-color: #003555;
+  text-align: center;
+  display: inline-block;
+}
+.zentriert {
+  text-align: center;
+}
+.bg_Torwart {
+  background-color: #4384a8 !important;
+  color: #fff;
+}
+
+element.style {
+}
+.kapitaenicon-table icons_sprite {
+  background-repeat: no-repeat;
+  background-position: -373px -105px;
+  width: 14px;
+  height: 11px;
+  vertical-align: text-top;
+  margin-left: 3px;
+  margin-top: 2px;
+}
+.bilderrahmen-fixed {
+  height: 36px;
+  width: 28px;
+  min-height: 36px;
+  min-width: 28px;
+  max-height: 36px;
+  max-width: 28px;
+}
+.inline-table img {
+  vertical-align: bottom;
+}
+.posrela {
+  position: relative !important;
+}
