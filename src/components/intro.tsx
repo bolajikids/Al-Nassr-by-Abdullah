@@ -9,6 +9,11 @@ export default function Introm() {
             <strong>Al Nassr FC</strong>
           </a>
         </li>
+        <li>
+          <a href="#Beginnings-and-triumphs-(1955–1989)">
+            <strong>Beginnings and triumphs</strong>
+          </a>
+        </li>
       </ul>
     </>
   );
