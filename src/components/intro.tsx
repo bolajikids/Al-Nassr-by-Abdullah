@@ -5,7 +5,7 @@ export default function Introm() {
       <h2>About website</h2>
       <ul>
         <li>
-          <a href="Al Nassr FC">Al Nassr FC</a>
+          <a href="Al-Nassr-FC">Al Nassr FC</a>
         </li>
       </ul>
     </>

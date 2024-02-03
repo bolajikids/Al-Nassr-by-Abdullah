@@ -4,8 +4,7 @@ export default function AlNassr1() {
     <>
       <title>AL-Nassr</title>
 
-      <h1>All about AL-Nassr</h1>
-      <h2 id="Al Nassr FC">Al Nassr FC</h2>
+      <h2 id="Al-Nassr-FC">Al Nassr FC</h2>
       <p>
         <strong>
           <a

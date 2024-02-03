@@ -25,6 +25,8 @@ import Introm from "./components/intro";
 function Al_Nassr() {
   return (
     <>
+      <h1>All about AL-Nassr</h1>
+      <Introm />
       <AlNassr1 />
       <hr />
       <AlNassr2 />
