@@ -1,5 +1,5 @@
 import React from "react";
-export default function introm() {
+export default function Introm() {
   return (
     <>
       <h2>About website</h2>
