@@ -124,3 +124,6 @@ element.style {
 .posrela {
   position: relative !important;
 }
+.no {
+  text-align: left;
+}
