@@ -54,6 +54,21 @@ export default function Introm() {
             <strong>End of 2023</strong>
           </a>
         </li>
+        <li>
+          <a href="#Image1">
+            <strong>Al-Nassr image</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#TeamFlag1">
+            <strong>First flag of Al-Nassr</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#TeamFlag2">
+            <strong>Second flag of Al-Nassr</strong>
+          </a>
+        </li>
       </ul>
     </>
   );

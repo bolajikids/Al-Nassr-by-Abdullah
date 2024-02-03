@@ -47,6 +47,7 @@ function Al_Nassr() {
       <hr />
       <AlNassr10 />
       <hr />
+      <h2>Images</h2>
       <TeamImage1 />
       <hr />
       <TeamImage2 />
