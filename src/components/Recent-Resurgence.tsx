@@ -2,7 +2,7 @@ import React from "react";
 export default function AlNassr5() {
   return (
     <>
-      <h2>Recent resurgence (2008–2015)</h2>
+      <h2 id="Recent-resurgence">Recent resurgence (2008–2015)</h2>
       <p>
         After a major overhaul of playing staff, Al Nassr went on to win the
         Federation Cup 2008 against city rivals, Al-Hilal. In the next season,

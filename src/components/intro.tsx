@@ -19,6 +19,16 @@ export default function Introm() {
             <strong>The End of Abdul Majed Era (1989–2000)</strong>
           </a>
         </li>
+        <li>
+          <a href="#Slow">
+            <strong>Slow Decline (2001–2007)</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#Recent-resurgence">
+            <strong>Recent resurgence (2008–2015)</strong>
+          </a>
+        </li>
       </ul>
     </>
   );
