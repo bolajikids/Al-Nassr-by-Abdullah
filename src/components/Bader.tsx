@@ -2,7 +2,7 @@ import React from "react";
 export default function AlNassr6() {
   return (
     <>
-      <h2>Bader Al-Mutawa finest hours</h2>
+      <h2 id="Bader-Al-Mutawa">Bader Al-Mutawa finest hours</h2>
       <p>
         Their second match in the 2023 Africa Champions League were against
         Pakhtakor FK, which resulted in a 2–2 draw with the decisive goal coming

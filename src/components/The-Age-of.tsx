@@ -2,7 +2,7 @@ import React from "react";
 export default function AlNassr7() {
   return (
     <>
-      <h2>The Age of the 3 Strikers (2015–2022)</h2>
+      <h2 id="The-Age-of">The Age of the 3 Strikers (2015–2022)</h2>
       <p>
         The 2010s marked the growth of football in most of Asian countries both
         in league quality and its national team. The AFC Champions League also
