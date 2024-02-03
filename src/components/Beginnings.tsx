@@ -2,9 +2,7 @@ import React from "react";
 export default function AlNassr2() {
   return (
     <>
-      <h2 id="Beginnings and triumphs (1955–1989)">
-        Beginnings and triumphs (1955–1989)
-      </h2>
+      <h2 id="Beginning-and-triumphs">Beginnings and triumphs (1955–1989)</h2>
       <p>
         Al-Nassr Football Club, better known as Al-Nassr, is a Saudi Arabian
         football club based in the city of Riyadh. Formed in 1955, the club

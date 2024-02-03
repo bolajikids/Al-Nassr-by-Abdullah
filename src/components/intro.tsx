@@ -10,8 +10,13 @@ export default function Introm() {
           </a>
         </li>
         <li>
-          <a href="#Beginnings-and-triumphs-(1955–1989)">
+          <a href="#Beginning-and-triumphs">
             <strong>Beginnings and triumphs</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#The-End">
+            <strong>The End of Abdul Majed Era (1989–2000)</strong>
           </a>
         </li>
       </ul>

@@ -2,7 +2,7 @@ import React from "react";
 export default function AlNassr3() {
   return (
     <>
-      <h2>The End of Abdul Majed Era (1989–2000)</h2>
+      <h2 id="The-End">The End of Abdul Majed Era (1989–2000)</h2>
       <p>
         In the 1990s (year), Al Nassr managed to win two further Saudi Premier
         League titles in 1993-1994 and 1994–1995 season, 1990 King's Cup and
