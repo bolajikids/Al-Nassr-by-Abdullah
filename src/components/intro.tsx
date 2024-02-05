@@ -79,6 +79,13 @@ export default function Introm() {
             <strong>Coaches/Managers</strong>
           </a>
         </li>
+        <li>
+          <a href="#video1">
+            <strong>
+              Video of Cristiano Ronaldo scoring BRACE with a LUDICROUS LOB
+            </strong>
+          </a>
+        </li>
       </ul>
     </>
   );

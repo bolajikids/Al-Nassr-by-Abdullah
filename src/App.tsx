@@ -21,6 +21,7 @@ import Video3 from "./components/video3";
 import Video4 from "./components/video4";
 import Video5 from "./components/video5";
 import Video6 from "./components/video6";
+import Video7 from "./components/video7";
 import Introm from "./components/intro";
 function Al_Nassr() {
   return (
@@ -69,6 +70,8 @@ function Al_Nassr() {
       <Video5 />
       <hr />
       <Video6 />
+      <hr />
+      <Video7 />
     </>
   );
 }
