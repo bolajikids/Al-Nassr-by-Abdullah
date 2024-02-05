@@ -5,7 +5,7 @@ export default function Table2() {
   }
   return (
     <>
-      <h2>Coaches/Managers</h2>
+      <h2 id="Coaches/Managers">Coaches/Managers</h2>
       <table bgcolor="black">
         <thead>
           <tr bgcolor="grey">

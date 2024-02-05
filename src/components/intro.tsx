@@ -69,6 +69,16 @@ export default function Introm() {
             <strong>Second flag of Al-Nassr</strong>
           </a>
         </li>
+        <li>
+          <a href="#Players-Table">
+            <strong>Players Table</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#Coaches/Managers">
+            <strong>Coaches/Managers</strong>
+          </a>
+        </li>
       </ul>
     </>
   );
