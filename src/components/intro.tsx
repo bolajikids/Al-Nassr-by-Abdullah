@@ -86,6 +86,21 @@ export default function Introm() {
             </strong>
           </a>
         </li>
+        <li>
+          <a href="#video2">
+            <strong>
+              Video of Cristiano Ronaldo scoring sensational long-range lob for
+              Al-Nassr
+            </strong>
+          </a>
+        </li>
+        <li>
+          <a href="#video3">
+            <strong>
+              Video of Cristiano Ronaldo's TWO ASSISTS power Al Nassr's win 💪
+            </strong>
+          </a>
+        </li>
       </ul>
     </>
   );

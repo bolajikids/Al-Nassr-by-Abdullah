@@ -4,11 +4,12 @@ export default function Video3() {
     <>
       {" "}
       <iframe
+        id="video3"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/vLK3qmpPmQM?si=mOkO7qOxlva051BZ"
         title="YouTube video player"
-        frameborder="0"
+        frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen
       ></iframe>{" "}
