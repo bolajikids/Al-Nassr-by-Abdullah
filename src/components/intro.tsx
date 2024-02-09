@@ -3,7 +3,7 @@ export default function Introm() {
   return (
     <>
       <h2 className="no">About website</h2>
-      <ul>
+      <ol>
         <li>
           <a href="#Al-Nassr-FC">
             <strong>Al Nassr FC</strong>
@@ -101,7 +101,27 @@ export default function Introm() {
             </strong>
           </a>
         </li>
-      </ul>
+        <li>
+          <a href="#video4">
+            <strong>Ask Cristiano Ronaldo Anything with Binance</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#video5">
+            <strong>when was Crisiano Ronaldo in his prime</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#video6">
+            <strong>Cristiano Ronaldo vs Lie Detector with Binance</strong>
+          </a>
+        </li>
+        <li>
+          <a href="#video7">
+            <strong>Al Nassr vs inter miami 6-0</strong>
+          </a>
+        </li>
+      </ol>
     </>
   );
 }
