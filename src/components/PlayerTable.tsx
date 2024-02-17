@@ -34,7 +34,7 @@ export default function Table1() {
               <strong>Cristiano Ronaldo</strong>
               <td>Centre-Forward</td>
             </td>
-            <td>Feb 5, 1985 (38)</td>
+            <td>Feb 5, 1985 (39)</td>
             <td>
               <img
                 src="https://tmssl.akamaized.net/images/flagge/verysmall/136.png?lm=1520611569"
