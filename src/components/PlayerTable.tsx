@@ -23,6 +23,7 @@ export default function Table1() {
             <th>Ht</th>
             <th>Wt(Kg)</th>
             <th>Games played</th>
+            <th>Goals scored</th>
           </tr>
         </thead>
         {/* ------------------------------------------- */}
@@ -60,6 +61,7 @@ export default function Table1() {
             <td>6'0"</td>
             <td>80</td>
             <td>31</td>
+            <td>35</td>
           </tr>
           {/* --------------------------------------------------- */}
           <tr bgcolor="lightgrey">
@@ -102,6 +104,7 @@ export default function Table1() {
             <td>6'0"</td>
             <td>83</td>
             <td>11</td>
+            <td>0</td>
           </tr>
           {/* ------------------------------------------------ */}
           <tr bgcolor="lightgrey">
@@ -137,6 +140,7 @@ export default function Table1() {
             <td>5'11"</td>
             <td>68</td>
             <td>30</td>
+            <td>4</td>
           </tr>
           {/* ------------------------------------------------ */}{" "}
           <tr bgcolor="lightgrey">
@@ -172,6 +176,7 @@ export default function Table1() {
             <td>6'4"</td>
             <td>91</td>
             <td>6</td>
+            <td>0</td>
           </tr>
           {/* ------------------------------------------------ */}
           <tr bgcolor="lightgrey">
@@ -214,6 +219,7 @@ export default function Table1() {
             <td>6'2"</td>
             <td>87</td>
             <td>28</td>
+            <td>4</td>
           </tr>
           {/* ------------------------------------------------ */}
           <tr bgcolor="lightgrey">
@@ -249,6 +255,7 @@ export default function Table1() {
             <td>5'10"</td>
             <td>72</td>
             <td>17</td>
+            <td>1</td>
           </tr>
           {/* ------------------------------------------------ */}
           <tr bgcolor="lightgrey">
@@ -291,6 +298,7 @@ export default function Table1() {
             <td>6'0"</td>
             <td>74</td>
             <td>28</td>
+            <td>2</td>
           </tr>
           {/* ------------------------------------------------ */}{" "}
           <tr bgcolor="lightgrey">
@@ -326,6 +334,7 @@ export default function Table1() {
             <td>5'8"</td>
             <td>69</td>
             <td>32</td>
+            <td>13</td>
           </tr>
           {/* ------------------------------------------------ */}{" "}
           <tr bgcolor="lightgrey">
@@ -367,6 +376,7 @@ export default function Table1() {
             <td>5'7"</td>
             <td>74</td>
             <td>20</td>
+            <td>10</td>
           </tr>
           {/* ------------------------------------------------ */}
           <tr bgcolor="lightgrey">
@@ -409,6 +419,7 @@ export default function Table1() {
             <td>5'11"</td>
             <td>66</td>
             <td>28</td>
+            <td>2</td>
           </tr>
         </tbody>
       </table>
